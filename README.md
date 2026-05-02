@@ -32,12 +32,7 @@ It was developed to eliminate manual repetitive work and significantly improve p
 
 ## 🎥 Demo Video
 Watch the tool in action:  
-👉 https://your-video-link-here
-
----
-
-## 📸 Screenshots
-*(Add screenshots of your tool interface here)*
+👉 Demo and explanation are available upon request due to confidentiality
 
 ---
 
@@ -50,8 +45,8 @@ Watch the tool in action:
 ## 📬 Contact
 If you're interested in similar automation tools or freelance work:
 
-- LinkedIn: https://linkedin.com/in/your-profile  
-- GitHub: https://github.com/your-username  
+- LinkedIn: https://www.linkedin.com/in/mohamed-hassan-733b36406/
+- GitHub: https://github.com/MohamedHassan-codeflow
 
 ---
 
