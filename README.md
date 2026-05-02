@@ -1,18 +1,18 @@
-# 🚀 VBA Automation Tool for Telecom Script Generation
+# 🚀 VBA Automation Tools for Telecom Scripts Generation
 
 ## 📌 Overview
-This project is a powerful Excel VBA-based automation tool designed to generate telecom scripts efficiently and accurately.
+This project represents a suite of powerful Excel VBA-based automation tools designed to generate telecom scripts efficiently and accurately.
 
-It was developed to eliminate manual repetitive work and significantly improve productivity in telecom operations.
+These tools were developed to eliminate repetitive manual work and significantly improve productivity in telecom operations.
 
 ---
 
 ## ⚡ Key Features
-- Automated script generation for telecom configurations  
-- Reduces execution time from **1+ hour to less than 2 minutes**  
-- Minimizes human errors  
-- User-friendly Excel-based interface  
-- Improves overall team productivity  
+- Automated telecom script generation tools  
+- Reduce execution time from **1+ hour to less than 2 minutes**  
+- Minimize human errors  
+- User-friendly Excel-based interfaces  
+- Improve overall team productivity  
 
 ---
 
@@ -26,12 +26,12 @@ It was developed to eliminate manual repetitive work and significantly improve p
 ## 🎯 Impact
 - ⏱️ Reduced processing time by over **95%**  
 - 📈 Increased efficiency and accuracy  
-- 🤖 Eliminated repetitive manual tasks  
+- 🤖 Eliminated repetitive manual tasks across multiple use cases  
 
 ---
 
 ## 🎥 Demo Video
-Watch the tool in action:  
+Watch the tools in action:  
 👉 Demo and explanation are available upon request due to confidentiality
 
 ---
@@ -45,13 +45,13 @@ Watch the tool in action:
 ## 📬 Contact
 If you're interested in similar automation tools or freelance work:
 
-- LinkedIn: https://www.linkedin.com/in/mohamed-hassan-733b36406/
-- GitHub: https://github.com/MohamedHassan-codeflow
+- LinkedIn: https://www.linkedin.com/in/mohamed-hassan-733b36406/  
+- GitHub: https://github.com/MohamedHassan-codeflow  
 
 ---
 
 ## 💼 Use Cases
-- Telecom script generation  
+- Telecom scripts generation  
 - Automation of repetitive Excel tasks  
 - Operational efficiency improvement  
 
@@ -59,5 +59,5 @@ If you're interested in similar automation tools or freelance work:
 
 ## 🚀 Author
 Mohamed Hassan  
-Electronics & Communication Engineer | Automation & Software Developer |   
+Electronics & Communication Engineer | Automation & Software Developer  
 Python | Web Development | VBA | AI
