@@ -59,4 +59,5 @@ If you're interested in similar automation tools or freelance work:
 
 ## 🚀 Author
 Mohamed Hassan  
-Electrical & Communication Engineer | Automation & Software Enthusiast
+Electronics & Communication Engineer | Automation & Software Developer |   
+Python | Web Development | VBA | AI
